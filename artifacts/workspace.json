@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid24410",
+  "B": "/home/dev/feedback/uid24410",
+  "sha": "932058d3a973e0c099ba2f8619b8a2151cfff7f4",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "containerd",
+    "repo": "containerd",
+    "sha": "932058d3a973e0c099ba2f8619b8a2151cfff7f4"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "containerd",
+    "cloneUrl": "https://github.com/Rrr119/containerd.git"
+  },
+  "at": "2026-11-18T00:00:46.528Z"
+}
